@@ -1,7 +1,7 @@
 # Shopping List
 ## Items
 
-1. Laptop
+1. Very Fast Laptop
 2. Really Big Mouse
 3. SSD
 
